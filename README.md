@@ -1,1 +1,1 @@
-![HomeScreen1]((https://github.com/tigos88/hikeApp/blob/main/screen1.png))
+![Screen 1](https://raw.githubusercontent.com/tigos88/hikeApp/main/screen1.png)
